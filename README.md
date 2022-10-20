@@ -49,7 +49,9 @@ GUI Foundation/Layout:
 The results of the project in general represent the objectives of the project at hand. In
 more detail...
 
-![random-walks-figure-1](https://user-images.githubusercontent.com/100963461/197039034-8613e824-94c3-4a68-8a27-179ca63b490c.JPG)
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/100963461/197039034-8613e824-94c3-4a68-8a27-179ca63b490c.JPG' alt='random walks empty gui'/>
+</p>
 
 The result of the uicontrol and axes handles in the figure can be seen in figure 1. The figure itself will open 100
 units from the left and 100 units from the bottom of the user’s screen. The figure is 800 units in width and 850 units in
@@ -72,10 +74,10 @@ automatically assigned to each individual particle path. To clarify, the results
 use the same parameters but the diffusion is randomized each run so no two results will be the
 same in two dimensions or three dimensions.
 
-![random-walks-figure-2](https://user-images.githubusercontent.com/100963461/197039139-b00b76cd-f56c-44fb-804b-378e8c05593a.JPG)
-
-![random-walks-figure-3](https://user-images.githubusercontent.com/100963461/197039149-f27ab624-fca9-4be5-89db-0309716d2287.JPG)
-
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/100963461/197039139-b00b76cd-f56c-44fb-804b-378e8c05593a.JPG' alt='random walks results in 2d'/>
+  <img src='https://user-images.githubusercontent.com/100963461/197039149-f27ab624-fca9-4be5-89db-0309716d2287.JPG' alt='random walks results in 3d'/>
+</p>
 
 Each histogram (increasing times from left to right) is a snippet of the particle distribution
 of displacement from three equally spaced time from start to end (including the end). As time
